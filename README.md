@@ -1,4 +1,4 @@
-# Prescripto FullStack Project - Setup & Run Instructions
+# Prescipto - Setup & Run Instructions
 
 ---
 
