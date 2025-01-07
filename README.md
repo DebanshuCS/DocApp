@@ -68,16 +68,3 @@
 3. Open `http://localhost:5174` in the browser.
 
 ---
-
-## Notes
-
-- Ensure the **backend server** is running before starting the frontend or admin panel.
-- Video Tutorial: [Watch here](https://youtu.be/OFFczXaS94I)
-- For assistance, contact [GreatStackDev](https://instagram.com/greatstackdev).
-- More Projects: [GreatStack Dev Projects](https://greatstack.dev/source-code)
-
----
-
-## License
-
-MIT Lic
