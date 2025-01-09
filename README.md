@@ -1,4 +1,4 @@
-# Prescipto - Setup & Run Instructions
+# MediSlot - Setup & Run Instructions
 
 ---
 
